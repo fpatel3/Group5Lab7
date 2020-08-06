@@ -1,0 +1,83 @@
+body{
+    background-color:#66e7c0;
+   }
+   header{
+       font-size: 30px;
+    position: fixed;
+    margin-left: 1050px;
+   }
+   topnav{
+    overflow: hidden;
+    background-color: #333;
+   }
+   
+   h1{
+   font-size:65px;
+   font-family:Bradley Hand, cursive;
+   color:#100731;	
+   text-align: center;
+   }
+   
+   h3{
+   font-family:Apple Chancery, cursive;
+   color:#100731;
+   font-size:25px;
+   }
+   .grid-container{
+    
+    margin-left: 50px;
+    margin-right: 50px;
+    display: grid;
+    grid-template-columns: auto auto;
+    border: 1px solid #000000cc;
+    background-color: #2196F3;
+    padding: 10px;
+    text-align: center;
+  
+   }
+   
+   .grid-item{
+  background-color: #ffffffcc;
+  border: 1px solid #000000cc;
+  padding: 20px;
+  font-size: 20px;
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+   }
+   
+   
+   .sub-topic{
+       font-family:Luminari, fantasy;
+       font-size:36px;
+       text-align: center;
+       color: #100731;
+   
+   }
+   
+   .description
+   {
+     font-family:Berlin Sans FB;
+     font-size:23px;
+       text-align: center;
+       color: #05030a;
+   
+   } 
+   
+      
+   h4{
+   font-size:30px;
+   font-family:Jazz LET, fantasy;
+   color:#13522b;	
+   text-align: center;
+   }
+   
+   .text{
+   
+   font-size:25px;
+   font-family:Trattatello, fantasy;
+   color:darkblue;	
+   text-align: center;
+   
+   }
+   
