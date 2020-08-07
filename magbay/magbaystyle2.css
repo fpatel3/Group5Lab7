@@ -4,6 +4,7 @@
     color: rgb(31, 122, 8);
     font-size: 40px;
     background-position: center;
+    background-color: rgb(165, 245, 165);
   }
   .itemdescription{
     font-family:Bradley Hand, cursive;
@@ -15,21 +16,19 @@
 
    .grid-container{
     
-    margin-left: 10px;
-    margin-right: 10px;
     display: grid;
     grid-template-columns: auto auto ;
-    border: 5px solid #f8f2bdce;
-    background-color: #fcfbe0;
-    padding: 15px;
+    
+    
+    padding: 5px;
     text-align: center;
     border-radius: 15px;
     
    }
    
    .grid-item{
-    background-color: ivory;
-    border: 20px solid #269e30cc;
+    margin-left: 10px;
+    margin-right: 10px;
     padding: 50px;
     font-size: 20px;
     font-style: italic;
