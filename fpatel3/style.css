@@ -1,7 +1,7 @@
 body{
     background-color:#66e7c0;
    }
-   header{
+  /* header{
        font-size: 30px;
     position: fixed;
     margin-left: 1050px;
@@ -9,8 +9,14 @@ body{
    topnav{
     overflow: hidden;
     background-color: #333;
-   }
-   
+   } */
+   .header {
+    padding: 1px;
+    text-align: left; 
+    color: rgb(31, 122, 8);
+    font-size: 40px;
+    background-position: center;
+  }
    h1{
    font-size:65px;
    font-family:Bradley Hand, cursive;

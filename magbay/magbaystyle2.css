@@ -1,0 +1,60 @@
+.header {
+    padding: 1px;
+    text-align: left; 
+    color: rgb(31, 122, 8);
+    font-size: 40px;
+    background-position: center;
+  }
+  .itemdescription{
+    font-family:Bradley Hand, cursive;
+    font-size:23px;
+    text-align: center;
+    color:rgb(8, 189, 24)a;
+    float: left;
+   }
+
+   .grid-container{
+    
+    margin-left: 10px;
+    margin-right: 10px;
+    display: grid;
+    grid-template-columns: auto ;
+    border: 5px solid #f8f2bdce;
+    background-color: #fcfbe0;
+    padding: 15px;
+    text-align: center;
+    border-radius: 15px;
+    
+   }
+   
+   .grid-item{
+    background-color: ivory;
+    border: 5px solid #269e30cc;
+    padding: 20px;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+    text-align: left;
+    border-radius: 15px;
+    
+   }
+
+   img {
+    border: 1px solid #ddd; 
+    border-radius: 4px;  
+    padding: 5px; 
+    
+    }
+
+    img:hover {
+    box-shadow: 0 0 5px 5px rgba(0, 140, 186, 0.5);
+    }
+
+    h2{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 50pt;
+        color: orangered;
+    }
+
+ 
+  
